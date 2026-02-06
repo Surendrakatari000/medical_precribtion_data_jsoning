@@ -1,0 +1,69 @@
+# --------------------
+# Python virtual env
+# --------------------
+.venv/
+venv/
+ENV/
+env/
+
+# --------------------
+# Python cache files
+# --------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------
+# Environment variables
+# --------------------
+.env
+.env.*
+
+# --------------------
+# Jupyter / ML artifacts
+# --------------------
+.ipynb_checkpoints/
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# --------------------
+# Logs & temp files
+# --------------------
+logs/
+*.log
+*.tmp
+
+# --------------------
+# Output / generated files (optional)
+# Uncomment if these are auto-generated
+# --------------------
+# final_output.json
+# *.png
+
+# --------------------
+# Documents (optional)
+# Uncomment if NOT required in repo
+# --------------------
+# *.pdf
+# *.docx
+
+# --------------------
+# IDE / Editor folders
+# --------------------
+.vscode/
+.idea/
+*.swp
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# AI / Tooling folders
+# --------------------
+.zencoder/
+.zenflow/

@@ -1,0 +1,16 @@
+{
+    "patient_name": "Lakshmi",
+    "doctor_name": "P Reddy",
+    "medicines": [
+        {
+            "name": "M Amlodipine",
+            "dosage": "5mg",
+            "frequency": "1-0-0"
+        },
+        {
+            "name": "Paracetamol",
+            "dosage": "500",
+            "frequency": "1-1-1"
+        }
+    ]
+}
